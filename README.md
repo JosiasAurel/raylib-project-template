@@ -22,6 +22,6 @@ set RAYLIB_PATH=C:\raylib\raylib
 Now to test if this example works, run `make` in the project root.
 This will execute the makefile and you should see a window appearing
 
-![RayLib Demo Window](/demo.png)
+![RayLib Demo Window](/demo.PNG)
 
 If everything worked fine, then you are good to go build cool stuff.
