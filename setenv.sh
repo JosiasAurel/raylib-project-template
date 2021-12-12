@@ -1,0 +1,1 @@
+set RAYLIB_PATH=C:\raylib\raylib
